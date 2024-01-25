@@ -1,6 +1,9 @@
 Study Notion is an educational technology (ed tech) platform designed to provide a secure and seamless experience for managing study materials. 
 This project leverages the MERN (MongoDB, Express.js, React, Node.js) stack and utilizes JWT (JSON Web Tokens) for secure user registration and authentication.
 
+
+Link to website: https://studynotion-frontend.vercel.app/ 
+
 Features:
 Secure User Authentication: Utilizes JWT for secure user registration and authentication.
 User Profiles: Users can sign up, log in, and manage their profiles with ease.
