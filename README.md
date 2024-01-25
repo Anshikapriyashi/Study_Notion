@@ -24,3 +24,39 @@ Main Page:
 
 
 ![Screenshot 2024-01-26 000318](https://github.com/Anshikapriyashi/Study_Notion/assets/54404819/a375fd9d-a647-44f8-8a9f-7270551e666c)
+
+
+
+
+
+Clone the repository to your local machine.
+
+git clone https://github.com/Anshikapriyashi/Study_Notion.git
+
+
+Install the required packages.
+
+Navigate to the Project Directory:
+
+cd Study_Notion
+
+Install Dependencies:
+
+npm install
+
+
+Set Up Environment Variables:
+
+Create a .env file in the root directory.
+Add the required environment variables, including MongoDB connection string and JWT secret.
+
+Run the Application:
+
+npm start
+
+Start the development server.
+
+npm run dev
+Open the project in your browser at http://localhost:3000 to view your project.
+
+The project is set up to use postcss-cli to process your CSS files. You can add your own tailwind.config.js file to customize your Tailwind setup.
